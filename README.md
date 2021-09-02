@@ -3,7 +3,7 @@
 ### Hi, this is Desmond. 
 
 *Research Assistant @ IST Austria*
-  
+<br/>
 *BSc. in Computer Science @ CUHK 2021*
 
 <a href="https://desmondlzy.me/">
