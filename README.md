@@ -7,7 +7,7 @@
 *BSc. in Computer Science @ CUHK 2021*
 
 <a href="https://desmondlzy.me/">
-<img src="https://desmondlzy.github.io/assets/images/prism.jpg" style="border-radius: 6px"></img>
+<img src="https://desmondlzy.github.io/images/prism.jpg" style="border-radius: 6px"></img>
 </a>
 
 ```
