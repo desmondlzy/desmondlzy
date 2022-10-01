@@ -2,6 +2,8 @@
 
 ### Hi, this is Desmond. 
 
+*PhD Student @ EPFL*
+<br/>
 *Research Assistant @ IST Austria*
 <br/>
 *BSc. in Computer Science @ CUHK 2021*
