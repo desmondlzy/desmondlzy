@@ -2,7 +2,7 @@
 
 ### Hi, this is Desmond. 
 
-*PhD Student @ EPFL*
+*PhD Student @ ETH Zurich*
 <br/>
 *Research Assistant @ IST Austria*
 <br/>
