@@ -4,8 +4,6 @@
 
 *PhD Student @ ETH Zurich*
 <br/>
-*Research Assistant @ IST Austria*
-<br/>
 *BSc. in Computer Science @ CUHK 2021*
 
 <a href="https://desmondlzy.me/">
